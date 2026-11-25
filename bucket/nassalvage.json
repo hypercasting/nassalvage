@@ -1,10 +1,10 @@
 {
-    "version": "1.0.30",
+    "version": "1.0.31",
     "description": "Bring back photos, videos and documents from a Synology NAS hit by ransomware. Free scan; the NAS is only read; nothing is uploaded.",
     "homepage": "https://nassalvage.com",
     "license": "Proprietary",
-    "url": "https://nassalvage.com/dl/NASSalvage-Setup-1.0.30.exe",
-    "hash": "c5fb13d91e62ea4bea5aaa0418e79c8871334d385f3464a6175eea188ed48f91",
+    "url": "https://nassalvage.com/dl/NASSalvage-Setup-1.0.31.exe",
+    "hash": "23c2550feca4a56e5f3970bc3940233f921747610af1bb64688902136e4a0f32",
     "innosetup": true,
     "shortcuts": [
         [
